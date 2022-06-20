@@ -6,7 +6,7 @@ import EnrollPage from "./components/Pages/EnrollPage";
 
 function App() {
   return (
-    <Router>
+    <Router basename="/harry-potter-website">
     <Routes>
       <Route path='/' element={<Home />} />
       <Route path='/enroll' element={<EnrollPage />} />
