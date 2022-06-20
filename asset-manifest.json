@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/harry-potter-website/static/css/main.309a430b.css",
+    "main.js": "/harry-potter-website/static/js/main.1d8a4352.js",
+    "static/media/hogwarts-express.mp4": "/harry-potter-website/static/media/hogwarts-express.b080e6d5604b3a67a13e.mp4",
+    "static/media/the-daily-prophet.gif": "/harry-potter-website/static/media/the-daily-prophet.64b9c3cce31c2578be1a.gif",
+    "static/media/avada-kedavra.gif": "/harry-potter-website/static/media/avada-kedavra.5991401d2a527b669974.gif",
+    "static/media/houses-logo.png": "/harry-potter-website/static/media/houses-logo.eb556b6b03ab976d8431.png",
+    "static/media/forbidden-forest.jpg": "/harry-potter-website/static/media/forbidden-forest.b6d57cadb958fb02f20d.jpg",
+    "static/media/fireworks.gif": "/harry-potter-website/static/media/fireworks.6c95d3ecaf2c58236c3c.gif",
+    "static/media/hogwarts.png": "/harry-potter-website/static/media/hogwarts.dd37e0dfb56db61ecf67.png",
+    "static/media/confused-harry.gif": "/harry-potter-website/static/media/confused-harry.38bc749b11c95c1fa9f9.gif",
+    "static/media/elder-wand.png": "/harry-potter-website/static/media/elder-wand.b09eb965f365898f9daa.png",
+    "static/media/resurrection-stone.png": "/harry-potter-website/static/media/resurrection-stone.10c7f33f0dce78006296.png",
+    "static/media/marauders-map-img.gif": "/harry-potter-website/static/media/marauders-map-img.446abc3a794d8ae08222.gif",
+    "static/media/hogwarts-logo.png": "/harry-potter-website/static/media/hogwarts-logo.5a5503b79db751698a91.png",
+    "static/media/wizarding-world.png": "/harry-potter-website/static/media/wizarding-world.d7e18bcf85368db99293.png",
+    "static/media/harry-potter.png": "/harry-potter-website/static/media/harry-potter.93df0b1e2c192467003e.png",
+    "static/media/owl-post.jpg": "/harry-potter-website/static/media/owl-post.88fbcbdc1a5ab963bf1c.jpg",
+    "static/media/marauders-map-bg.jpg": "/harry-potter-website/static/media/marauders-map-bg.2bf24aceacb4283c7c6b.jpg",
+    "static/media/enroll-hogwarts.jpg": "/harry-potter-website/static/media/enroll-hogwarts.5e88beb922fe58069a20.jpg",
+    "static/media/death-eaters.jpg": "/harry-potter-website/static/media/death-eaters.bab3a15b3961f425ce76.jpg",
+    "static/media/sorting-hat.jpg": "/harry-potter-website/static/media/sorting-hat.3f1347061053f6974d2b.jpg",
+    "static/media/cloak-of-invisibility.jpeg": "/harry-potter-website/static/media/cloak-of-invisibility.f06939ef1fc26e844515.jpeg",
+    "static/media/death-eaters-logo.png": "/harry-potter-website/static/media/death-eaters-logo.928c573a0acb70218583.png",
+    "index.html": "/harry-potter-website/index.html",
+    "main.309a430b.css.map": "/harry-potter-website/static/css/main.309a430b.css.map",
+    "main.1d8a4352.js.map": "/harry-potter-website/static/js/main.1d8a4352.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.309a430b.css",
+    "static/js/main.1d8a4352.js"
+  ]
+}
