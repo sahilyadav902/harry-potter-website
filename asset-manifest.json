@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/harry-potter-website/static/css/main.73d6b78c.css",
+    "main.css": "/harry-potter-website/static/css/main.c6927817.css",
     "main.js": "/harry-potter-website/static/js/main.5734d54c.js",
     "static/media/hogwarts-express.mp4": "/harry-potter-website/static/media/hogwarts-express.b080e6d5604b3a67a13e.mp4",
     "static/media/the-daily-prophet.gif": "/harry-potter-website/static/media/the-daily-prophet.64b9c3cce31c2578be1a.gif",
@@ -23,13 +23,13 @@
     "static/media/sorting-hat.jpg": "/harry-potter-website/static/media/sorting-hat.3f1347061053f6974d2b.jpg",
     "static/media/cloak-of-invisibility.jpeg": "/harry-potter-website/static/media/cloak-of-invisibility.f06939ef1fc26e844515.jpeg",
     "static/media/death-eaters-logo.png": "/harry-potter-website/static/media/death-eaters-logo.928c573a0acb70218583.png",
-    "static/media/HARRP.TTF": "/harry-potter-website/static/media/HARRP.61090fcb66b8942c5664.TTF",
+    "static/media/HarryPotterFont.TTF": "/harry-potter-website/static/media/HarryPotterFont.61090fcb66b8942c5664.TTF",
     "index.html": "/harry-potter-website/index.html",
-    "main.73d6b78c.css.map": "/harry-potter-website/static/css/main.73d6b78c.css.map",
+    "main.c6927817.css.map": "/harry-potter-website/static/css/main.c6927817.css.map",
     "main.5734d54c.js.map": "/harry-potter-website/static/js/main.5734d54c.js.map"
   },
   "entrypoints": [
-    "static/css/main.73d6b78c.css",
+    "static/css/main.c6927817.css",
     "static/js/main.5734d54c.js"
   ]
 }
