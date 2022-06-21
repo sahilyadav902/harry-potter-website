@@ -22,10 +22,6 @@ cursor: pointer;
 @font-face {
     font-family: 'Harry Potter';
     font-style: normal;
-    /* font-weight: 400; */
-    /* src: local('Harry Potter'), url('https://fonts.cdnfonts.com/s/25438/HARRP___.woff') format('woff'); */
-    src: local('Harry Potter'), url('./HARRP.TTF') format('truetype');
-
-    /* src: url('./ParryHotter.ttf') format('truetype'); */
-
+    font-weight: 400;
+    src: local('Harry Potter'), url('./HarryPotterFont.TTF') format('truetype');
 }
