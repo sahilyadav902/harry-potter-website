@@ -1,5 +1,5 @@
 # Expecto Patronum (Harry Potter Website)
-![Harry Potter Website](https://drive.google.com/file/d/14q6fSS5wn4Ph7KRPFSLI1QI1ZBuFvgh0/view?usp=share_link)
+![Harry Potter Website](https://drive.google.com/file/d/14q6fSS5wn4Ph7KRPFSLI1QI1ZBuFvgh0/preview)
 
 ## Tech Stack Used
 React.js, Javascript, CSS, HTML
