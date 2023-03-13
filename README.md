@@ -1,4 +1,6 @@
-# Expecto Patronum (Harry Potter Website)
+# Expecto Patronum
+(Responsive Frontend Harry Potter Website)
+
 ![Harry Potter Website](https://i.ibb.co/GQGZ7Xn/Harry-Potter-Website.png)
 
 ## Tech Stack Used
